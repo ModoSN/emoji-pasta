@@ -13,7 +13,7 @@ function generateEmojiText() {
 			let emojiText = "";
 
 			const removePunctuation = word => {
-				return word.replace(/[.,!?;:'"/\\(){}\[\]]/g, ''); // Remove common punctuation marks
+				return word.replace(/[.,!?;:'"’/\\(){}\[\]]/g, ''); // Remove common punctuation marks
 			};
 
 			words.forEach(word => {
