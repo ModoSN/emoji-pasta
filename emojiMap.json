@@ -18,6 +18,8 @@
     ":mira00Swatty:": ["swatty"],
     ":upvote:": ["upvote", "increase", "increased"],
     ":peepoMexico:": ["mexican", "mexico"],
+    ":mira00Downbad:": ["down bad"],
+    "🇦🇹": ["christoph"],
     "🔎": ["where", "search", "searching"],
     "🤖": ["robot", "bot"],
     "📺": ["streaming", "stream", "tv", "television", "watch"],
